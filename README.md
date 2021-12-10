@@ -20,7 +20,7 @@
 
 [https://nameless-woodland-98557.herokuapp.com/painting/title/dfjkghdfkgh](https://nameless-woodland-98557.herokuapp.com/painting/title/dfjkghdfkgh )
 
-[https://nameless-woodland-98557.herokuapp.com/painting/color/NAPA](https://nameless-woodland-98557.herokuapp.com/paintings/color/NAPA)
+[https://nameless-woodland-98557.herokuapp.com/painting/color/NAPA](https://nameless-woodland-98557.herokuapp.com/painting/color/NAPA)
 
 [https://nameless-woodland-98557.herokuapp.com/painting/color/coffee%20bean](https://nameless-woodland-98557.herokuapp.com/painting/color/coffee%20bean)
 
