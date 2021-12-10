@@ -10,7 +10,7 @@
 
 [https://nameless-woodland-98557.herokuapp.com/painting/artist/106](https://nameless-woodland-98557.herokuapp.com/painting/artist/106)
 
-[https://nameless-woodland-98557.herokuapp.com/painting/artist/43374534856](https://nameless-woodland-98557.herokuapp.com/artist/43374534856)
+[https://nameless-woodland-98557.herokuapp.com/painting/artist/43374534856](https://nameless-woodland-98557.herokuapp.com/painting/artist/43374534856)
 
 [https://nameless-woodland-98557.herokuapp.com/painting/year/1850/1900](https://nameless-woodland-98557.herokuapp.com/painting/year/1850/1900 )
 
