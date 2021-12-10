@@ -4,7 +4,7 @@
 
 [https://nameless-woodland-98557.herokuapp.com/painting/43374534856](https://nameless-woodland-98557.herokuapp.com/painting/43374534856)
 
-[https://nameless-woodland-98557.herokuapp.com/painting/gallery/7](https://nameless-woodland-98557.herokuapp.com/painting//gallery/7)
+[https://nameless-woodland-98557.herokuapp.com/painting/gallery/7](https://nameless-woodland-98557.herokuapp.com/painting/gallery/7)
 
 [https://nameless-woodland-98557.herokuapp.com/painting/gallery/43374534856](https://nameless-woodland-98557.herokuapp.com/painting/gallery/43374534856)
 
